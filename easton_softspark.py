@@ -1,1 +1,1 @@
-print('fk u python'
+print('hello,everybody')
